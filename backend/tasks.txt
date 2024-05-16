@@ -1,3 +1,0 @@
-name,rank,market_value_mil
-Walmart,1,397475
-Amazon,2,1058440
